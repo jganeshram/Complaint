@@ -1,0 +1,13 @@
+<resources>
+    <string name="Customer">Customer</string>
+    <string name="Service">Service</string>
+    <string name="app_name">complaint</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="emailoutput">emailoutput</string>
+    <string name="bingo">bingo</string>
+    <string name="showemail">showemail</string>
+    <string name="textview">TextView</string>
+</resources>
